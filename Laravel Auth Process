@@ -1,0 +1,12 @@
+laravel Authenticate by using Laravel auth
+
+
+Install Larave by command 
+composer create-project laravel/laravel auth
+
+Install Auth by command
+Composer require laravel/ui
+php artisan ui --auth boostrap
+npm install
+npm run dev
+
